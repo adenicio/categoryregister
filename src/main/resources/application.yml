@@ -1,4 +1,5 @@
 server:
+  port: 9081
   error:
     include-stacktrace: on_param
 
